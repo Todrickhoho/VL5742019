@@ -1,3 +1,3 @@
-submodule "hugo-highlights-themes"]
-    path = hugo-highlights-themes
+submodule "VL5742019/hugo-highlights-theme"]
+    path = VL5742019/hugo-highlights-theme
     url = https://github.com/schmanat/hugo-highlights-theme
